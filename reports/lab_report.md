@@ -1,6 +1,6 @@
 # Báo Cáo Thực Hành & Thuyết Minh Kỹ Thuật — Lab 19: GraphRAG vs Flat RAG
 
-**Học viên:** Ngô Việt Anh (MHV: 2A202601579)
+**Học viên:** Nguyễn Lâm Tùng Bách (MSSV: 2A202601830)
 **Khóa học:** AICB-K34 · Track 3: GraphRAG
 **Ngày thực hiện:** 19/08/2026
 
